@@ -2,7 +2,7 @@
 
 Weather app in <b>SwiftUI</b> + <b>API</b> provided by <a href="https://openweathermap.org" target="_blank">OpenWeatherMap</a>. 
 
-<h4><a href="https://user-images.githubusercontent.com/6122888/185783570-99df2d1a-be6a-4012-adb6-56b7ef6ab805.mov" target="_blank">Download video demo</a><br></h4>
+<h4><a href="[https://user-images.githubusercontent.com/6122888/185783570-99df2d1a-be6a-4012-adb6-56b7ef6ab805.mov](https://user-images.githubusercontent.com/6122888/185792962-4658d0d1-0402-487b-a9ea-7e90f20e020a.mov)" target="_blank">Download video demo</a><br></h4>
 
 <p float="center">
 <img src="https://user-images.githubusercontent.com/6122888/185792740-fd65d1b2-cd41-419e-ba5a-5b6c4ffc844a.png" width="270" height="560">
