@@ -1,12 +1,7 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<h1 align="center">
-  🌤 WeatherApp tutorial
-</h1>
-Source code for the WeatherApp built in the <a href="https://youtu.be/X2W9MPjrIbk">YouTube tutorial</a>
+<h1>About the app</h1>
 
-Access the three-part written content here:
-- [Weather app Part 1](https://designcode.io/swiftui-advanced-handbook-weather-app-1)
-- [Weather app Part 2](https://designcode.io/swiftui-advanced-handbook-weather-app-2)
-- [Weather app Part 3](https://designcode.io/swiftui-advanced-handbook-weather-app-3)  
-  
-<!-- AUTO-GENERATED-CONTENT:END -->
+Weather app in <b>SwiftUI</b> + <b>API (https://openweathermap.org)</b>
+
+<h4><a href="https://user-images.githubusercontent.com/6122888/185783570-99df2d1a-be6a-4012-adb6-56b7ef6ab805.mov" target="_blank">Download video demo</a><br></h4>
+
+<img src="https://user-images.githubusercontent.com/6122888/185783891-6251e3fd-a403-4faf-99a7-61c29875050e.png" width="270" height="540">
